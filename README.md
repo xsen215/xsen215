@@ -38,7 +38,7 @@
   Vibing to : 🎧  
 </strong></p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=miraclerose001&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=xsen215&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
@@ -83,10 +83,10 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/miraclerose001/miraclerose001/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/miraclerose001/miraclerose001/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/LINUX**. <br>
-- <img src="https://github.com/miraclerose001/miraclerose001/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, AI agent, or anything**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/miraclerose001/miraclerose001/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
+-  <img alt="GIF" src="https://github.com/xsen215/xsen215/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently building **Crypto World**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/xsen215/xsen215/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/LINUX**. <br>
+- <img src="https://github.com/xsen215/xsen215/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Next, DEX, Solidity, Rust, Dapp, AI agent, or anything**. <br>
+- &nbsp;&nbsp;<img src="https://github.com/xsen215/xsen215/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Blockchain's future will be eternal**.<br>
 
 <div align="center" >
 
@@ -491,18 +491,18 @@ class About extends Me {
 </table>
 
 <p align="center">
-  <a href="https://github.com/miraclerose001?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=miraclerose001&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@miraclerose001's github-readme-stats"/>
+  <a href="https://github.com/xsen215?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=xsen215&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@xsen215's github-readme-stats"/>
   </a>
-  <a href="https://github.com/miraclerose001?tab=stars">
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=miraclerose001&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <a href="https://github.com/xsen215?tab=stars">
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=xsen215&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   </a>
 </p>
 
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miraclerose001&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/miraclerose001?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=miraclerose001&theme=onestar&no-frame=true&column=4&row=2"  height="250px" alt="@miraclerose001's trophy stats"/>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsen215&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/xsen215?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=xsen215&theme=onestar&no-frame=true&column=4&row=2"  height="250px" alt="@xsen215's trophy stats"/>
   </a>
 </div>
 
